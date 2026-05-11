@@ -42,7 +42,7 @@ Soy un apasionado desarrollador con experiencia en crear soluciones innovadoras 
 
 ---
 
-## Stats
+## Musicholic:
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
