@@ -43,8 +43,12 @@ Soy un apasionado desarrollador con experiencia en crear soluciones innovadoras 
 ---
 
 ## Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Jonathan305g&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan305g&hide_langs_below=.25&theme=radical">
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrhrx2hj3jpj2t7u5xn5plug2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
 </p>
+
+
 
